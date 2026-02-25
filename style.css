@@ -107,7 +107,7 @@ html {
 
 
 .hero_section {
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('/PROJECT/Pic.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('./Pic.jpg');
     min-height: 100vh;
     background-position: center;
     background-size: cover;
@@ -404,4 +404,5 @@ html {
     .footer_links a:hover {
         padding-left: 0;
     }
+
 }
