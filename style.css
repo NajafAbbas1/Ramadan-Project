@@ -51,8 +51,8 @@ html {
 }
 
 .name {
-    font-size: 1.3rem;
-    font-weight: 300;
+    font-size: 2.3rem;
+    font-weight: 600;
     color: #888;
     letter-spacing: 5px;
     margin-bottom: 5px;
@@ -268,9 +268,6 @@ html {
         padding: 10px 5%;
     }
 
-    .position {
-        font-size: 1.7rem;
-    }
 
     .cards-section {
         padding: 30px 20px;
@@ -309,10 +306,6 @@ html {
     .name {
         font-size: 1.1rem;
         letter-spacing: 3px;
-    }
-
-    .position {
-        font-size: 1.4rem;
     }
 
     .contact {
@@ -364,9 +357,6 @@ html {
         font-size: 1rem;
     }
 
-    .position {
-        font-size: 1.2rem;
-    }
 
     .contact {
         font-size: 1rem;
